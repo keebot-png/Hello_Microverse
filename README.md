@@ -12,7 +12,11 @@
 
 ## Authors
 
+- GitHub: [@keebot-png](https://github.com/keebot-png)
+- Twitter: [@KeenanBotes](https://twitter.com/KeenanBotes)
+- LinkedIn: [kee.bot@icloud.com](https://www.linkedin.com/in/keenan-botes-947043160)
 👤 **keebot-png**
+
 
 ## List of technologies
 
